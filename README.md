@@ -1,11 +1,11 @@
 <div align="center">
     <h1 alight="center">
-        Neural Network From Scratch
+        Building a Neural Network
     </h1>
 
 </div>
 
-# 🥳 Welcome
+# 🥳 About
 
 This is my work following Andrej Karpathy's video series [Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ).
 
