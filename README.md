@@ -34,7 +34,7 @@ Built a brigram language model and evaluated in using negative log likelihood. T
 
 ### Makemore Part 2
 
-This model is based off of the Bengio et al. 2003 paper but using character prediction instead of word prediction Optimized the makemore model hyperparamters through experiments and graphics. Acheived a much better model that created more name-like words.
+This model is based off of the Bengio et al. 2003 paper but using character prediction instead of word prediction. Optimized the makemore model hyperparamters through experiments and graphics. Acheived a much better model that created more name-like words.
 
 ![Names from Makemore pt. 2](_assets/makemore1-results.png)
 
